@@ -40,7 +40,7 @@ venv.bak/
 survey_2024_2023/*.xlsx
 
 # Output files
-Fielmann_MAB_Delta_2023_2024.xlsx
+*.xlsx
 
 # Mac specific
 .DS_Store 
